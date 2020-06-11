@@ -25,4 +25,5 @@
 <item elementID="=springboot-servicio-zuul-server/target\/generated-test-sources\/test-annotations=/ignore_optional_problems=/true=/=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/=/m2e-apt=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591891369432_2" label="Window Working Set" name="Aggregate for window 1591891369432"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1591909151410_3" label="Window Working Set" name="Aggregate for window 1591909151410"/>
 </workingSetManager>
