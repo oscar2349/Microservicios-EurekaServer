@@ -4,8 +4,6 @@ server.port= 8002
 #servicio-productos.ribbon.listOfServers=localhost:8001,localhost:9001  con Euroka sobra esta configuracion
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka
 
-#Cambia el time out que por defecto es un segundo
-#hystrix tiempo mayor que la suma de los dos de ribbon en este caso minimo 13000
 #hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 20000
 #ribbon.ConnectTimeout: 3000
 #ribbon.ReadTimeout: 10000

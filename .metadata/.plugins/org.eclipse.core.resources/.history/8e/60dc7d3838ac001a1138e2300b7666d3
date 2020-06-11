@@ -5,7 +5,6 @@ server.port= 8002
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka
 
 #Cambia el time out que por defecto es un segundo
-#hystrix tiempo mayor que la suma de los dos de ribbon en este caso minimo 13000
 #hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 20000
 #ribbon.ConnectTimeout: 3000
 #ribbon.ReadTimeout: 10000
