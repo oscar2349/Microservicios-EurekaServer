@@ -373,3 +373,178 @@ Contains: Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
 !MESSAGE Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-06-11 11:05:47.867
 !MESSAGE Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:30.011
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:30.014
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7ff40324[org.springframework.tooling.boot.ls:1.18.0.202005250744(id=636)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:30.040
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:30.156
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.499
+!MESSAGE Boot LS startup time from start to initialized: 4419ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.591
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZQUwPUDvisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.595
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.599
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.603
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.607
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.610
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.613
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.615
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ZQUwPUDv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.633
+!MESSAGE classpath=150 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.645
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-eureka-server false 150
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.647
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.664
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.673
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-item false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.675
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.688
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.698
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-productos false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.701
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.712
+!MESSAGE classpath=145 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.721
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-zuul-server false 145
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.724
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:12:34.813
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-06-11 11:13:20.150
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:14:19.368
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:14:19.380
+!MESSAGE classpath=168 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:14:19.390
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-eureka-server false 168
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:14:19.392
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:14:19.405
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:24.611
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:24.645
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:24.660
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-item false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:24.664
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:24.680
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:46.342
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:46.352
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:46.363
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-productos false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:46.365
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:15:46.373
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:11.924
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:11.934
+!MESSAGE classpath=164 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:11.946
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-item false 164
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:11.948
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:11.965
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2020-06-11 11:16:12.812
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:515)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1976)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:25.639
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:25.653
+!MESSAGE classpath=163 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:25.665
+!MESSAGE buffering callback sts4.classpath.ZQUwPUDv springboot-servicio-zuul-server false 163
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:25.667
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-11 11:16:25.674
+!MESSAGE executing callback sts4.classpath.ZQUwPUDv SUCCESS [done]
